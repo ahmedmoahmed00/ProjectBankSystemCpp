@@ -1,0 +1,6 @@
+﻿  BankSystem.cpp
+C:\Users\ahmed\source\repos\BankSystem\BankSystem\BankSystem.cpp(70,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\ahmed\source\repos\BankSystem\BankSystem\BankSystem.cpp(563,32): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\ahmed\source\repos\BankSystem\BankSystem\BankSystem.cpp(375,1): warning C4715: 'DeleteClientAccountNumber': not all control paths return a value
+C:\Users\ahmed\source\repos\BankSystem\BankSystem\BankSystem.cpp(447,1): warning C4715: 'UpdateClientByaAccountNumber': not all control paths return a value
+  BankSystem.vcxproj -> C:\Users\ahmed\source\repos\BankSystem\BankSystem\x64\Debug\BankSystem.exe
